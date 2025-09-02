@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://et-coder.github.io/four-card-feature-section)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/four-card-feature-section-F1H7dDNs40)
+- Live Site URL: [Here](https://et-coder.github.io/four-card-feature-section)
 
 ## My process
 
